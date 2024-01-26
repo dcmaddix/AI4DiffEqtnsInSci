@@ -17,7 +17,7 @@ available on OpenReview, there are *no* formally-published proceedings.
 
 | **Submission link** | [OpenReview](https://openreview.net/group?id=ICLR.cc/2024/Workshop/AI4DiffEqtnsInSci) |
 | **Submission opens** | Thursday, January 4, 2024 |
-| **Submission deadline** | Saturday, February 3, 2024 (23:59 AoE) |
+| **Submission deadline** | Saturday, February 10, 2024 (23:59 AoE) |
 | **Notification date** | Sunday, March 3, 2024 (23:59 AoE) |
 
 # Scope and topics
